@@ -4,7 +4,7 @@
 <img src="/img/capa.png" width="700" alt="Seja Backend Dev">
 </p>
 <h1 align="center">Seja um profissional Backend</h1>
-<p align="center">Este repositório é mais ferramenta para auxílio na  formação de novos profissionais Backend.<br>Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
+<p align="center">Este repositório é mais uma ferramenta para auxílio na  formação de novos profissionais Backend.<br>Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 <p align="center">
