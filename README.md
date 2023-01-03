@@ -3,7 +3,11 @@
 
 <img src="/img/capa.png" width="700" alt="Seja Backend Dev">
 </p>
+<h1 align="center">Be a Backend Professional</h1>
 <h1 align="center">Seja um profissional Backend</h1>
+
+<p align="center">This repository is yet another tool to help train new Backend professionals.
+Inspired by Felipe Orlando's Learn Ruby on Rails<br>Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
 <p align="center">Este repositório é mais uma ferramenta para auxílio na  formação de novos profissionais Backend.<br>Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
@@ -26,10 +30,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 
 
-## :mortar_board: Cursos
+## :mortar_board: Cursos/Courses
 
 
-Curso: Formação Desenvolvedor Backend  | Escola/Site | Nível | Assunto | Autor | Preço
+Curso: Formação Desenvolvedor Backend / Backend Developer Training  | Escola/Site | Nível | Assunto | Autor | Preço
 :-- | :--: | :--: | :--: | :--: | :--:
 [Como se tornar um desenvolvedor BACKEND? (Passo a passo / Roadmap)](https://www.youtube.com/watch?v=wXMlMsDvk2M) | YouTube | Básico | Backend | [Attekita Dev](https://www.youtube.com/@attekitadev/) | :free:
 [O que estudar para ser desenvolvedor backend](https://www.youtube.com/watch?v=3Wo4L2dPS58) | YouTube | Básico | Backend | [Code By Duda](https://www.youtube.com/@CodeByDuda/) | :free:
@@ -149,7 +153,7 @@ Curso: Ruby | Escola/Site | Nível | Assunto | Autor | Preço
 
 [Ir para o índice](#Índice)
 
-## :book: Livros
+## :book: Livros / Books
 
 Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
@@ -198,7 +202,7 @@ Título | Assunto | Autor | Idioma
 
 [Ir para o índice](#Índice)
 
-## :speech_balloon: Comunidades
+## :speech_balloon: Comunidades /Communities
 Nome | Tipo | Idioma
 :-- | :--: | :--:
 [We Are Coming Soon - A melhor comunidade para devs backend está chegando!](https://www.backendbrasil.com.br/) | Slack | :brazil:
@@ -212,10 +216,12 @@ Nome | Tipo | Idioma
 
 [Ir para o índice](#Índice)
 
-## Como posso Contribuir ?
+## Como posso Contribuir ? / How can I Contribute?
 
-Siga as [siga as normas de contribuição](CONTRIBUTING.md) para contribuir com o projeto.
 
+
+ Follow the [contribution guidelines for contributing](CONTRIBUTING.md) to the project. </br>
+ Siga as [siga as normas de contribuição](CONTRIBUTING.md) para contribuir com o projeto. 
 
 
 <h6 align="center"><a href="/LICENSE">MIT</a> @ David Simoes</h6>
