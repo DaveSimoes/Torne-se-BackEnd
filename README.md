@@ -12,11 +12,11 @@ Inspired by Felipe Orlando's Learn Ruby on Rails<br>Inspirado no <a href="https:
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 <p align="center">
-	<a href="#mortar_board-cursos">Cursos</a> •
-	<a href="#book-livros">Livros</a> •
+	<a href="#mortar_board-cursos_courses">Cursos_Courses</a> •
+	<a href="#book-livros_books">Livros_Books</a> •
 	<a href="#newspaper-blogs">Blogs</a> •
 	<a href="#computer-screencasts">Screencasts</a> •
-	<a href="#speech_balloon-comunidades">Comunidades</a> 
+	<a href="#speech_balloon-comunidades_communities">Comunidades_Communities</a> 
 	
 </p>
 
@@ -30,7 +30,7 @@ Inspired by Felipe Orlando's Learn Ruby on Rails<br>Inspirado no <a href="https:
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 
 
-## :mortar_board: Cursos/Courses
+## :mortar_board: Cursos_Courses
 
 
 Curso: Formação Desenvolvedor Backend / Backend Developer Training  | Escola/Site | Nível | Assunto | Autor | Preço
@@ -153,7 +153,7 @@ Curso: Ruby | Escola/Site | Nível | Assunto | Autor | Preço
 
 [Ir para o índice](#Índice)
 
-## :book: Livros / Books
+## :book: Livros_Books
 
 Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
@@ -202,7 +202,7 @@ Título | Assunto | Autor | Idioma
 
 [Ir para o índice](#Índice)
 
-## :speech_balloon: Comunidades /Communities
+## :speech_balloon: Comunidades_Communities
 Nome | Tipo | Idioma
 :-- | :--: | :--:
 [We Are Coming Soon - A melhor comunidade para devs backend está chegando!](https://www.backendbrasil.com.br/) | Slack | :brazil:
