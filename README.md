@@ -220,8 +220,8 @@ Nome | Tipo | Idioma
 
 
 
- Follow the [contribution guidelines for contributing](CONTRIBUTING.md) to the project. </br>
- Siga as [siga as normas de contribuição](CONTRIBUTING.md) para contribuir com o projeto. 
+  Siga as [siga as normas de contribuição](CONTRIBUTING.md) para contribuir com o projeto. </br>
+  Follow the [contribution guidelines for contributing](CONTRIBUTING.md) to the project.
 
 
 <h6 align="center"><a href="/LICENSE">MIT</a> @ David Simoes</h6>
