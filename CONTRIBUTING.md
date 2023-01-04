@@ -70,11 +70,11 @@ To start development, you will need to follow a few steps:
 - Faça um clone do repositório que você fez seu fork.
 - Crie uma branch a partir da branch `master`.
 - Adicione sua contribuição, faça o commit e push.
-- Abra um [pull request](https://github.com/backend-br/opensource-br/pulls). </br>
+- Abra um [pull request](https://github.com/DaveSimoes/Seja_Backend/pulls). </br>
 
 
 - Fork this repository.
 - Make a clone of the repository you forked.
 - Create a branch from the `master` branch.
 - Add your contribution, commit and push.
-- Open a [pull request](https://github.com/backend-br/opensource-br/pulls).
+- Open a [pull request](https://github.com/DaveSimoes/Seja_Backend/pulls).
