@@ -39,16 +39,16 @@ provide the following information:
 - Use um título claro e descritivo para identificar o problema.
 - Descreva as etapas exatas que reproduzem o problema com o máximo de detalhes possível. </br>
 - Use a clear, descriptive title to identify the issue.
-- Describe the exact steps that reproduce the issue in as much detail as possible.
-
+- Describe the exact steps that reproduce the issue in as much detail as possible.     
+ 
 <div id='suggesting-improvements'></div> 
 
 ### Gostaria de sugerir melhorias / I would like to suggest improvements 
 
-As sugestões de melhorias são rastreadas como [issues](https://github.com/backend-br/opensource-br/issues) no
+As sugestões de melhorias são rastreadas como [issues](https://github.com/DaveSimoes/Seja_Backend/issues) no
 GitHub, crie sua sugestão e forneça a informação a seguir: </br>
 
-Improvement suggestions are tracked as [issues](https://github.com/backend-br/opensource-br/issues) in
+Improvement suggestions are tracked as [issues](https://github.com/DaveSimoes/Seja_Backend/issues) in
 GitHub, create your suggestion and provide the following information:
 
 - Use um título claro e descritivo para identificar a sugestão.
