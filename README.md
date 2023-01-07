@@ -3,8 +3,8 @@
 
 <img src="/img/backend_logo.png" width="700" alt="Seja Backend Dev">
 </p>
-<h1 align="center">Be a Backend Professional</h1>
-<h1 align="center">Seja um Profissional Backend</h1>
+<h1 align="center">Be a Developer Backend</h1>
+<h1 align="center">Seja um Desenvolvedor Backend</h1>
 
 <p align="center">This repository is yet another tool to help train new Backend professionals.
 Inspired by Felipe Orlando's Learn Ruby on Rails<br>Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
