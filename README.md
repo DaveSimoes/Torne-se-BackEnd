@@ -1,7 +1,7 @@
 <p align="center">
 	
 
-<img src="/img/backend_logo.pngU" width="700" alt="Seja Backend Dev">
+<img src="/img/backend_logo.png" width="700" alt="Seja Backend Dev">
 </p>
 <h1 align="center">Be a Backend Professional</h1>
 <h1 align="center">Seja um Profissional Backend</h1>
