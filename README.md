@@ -3,21 +3,19 @@
 
 <img src="/img/backend_logo.png" width="700" alt="Seja Backend Dev">
 </p>
-<h1 align="center">Be a Developer Backend</h1>
 <h1 align="center">Seja um Desenvolvedor Backend</h1>
 
-<p align="center">This repository is yet another tool to help train new Backend professionals.
-Inspired by Felipe Orlando's Learn Ruby on Rails<br>Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
+
 <p align="center">Este repositório é mais uma ferramenta para auxílio na  formação de novos profissionais Backend.<br>Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
 
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 <p align="center">
-	<a href="#mortar_board-cursos_courses">Cursos_Courses</a> •
-	<a href="#book-livros_books">Livros_Books</a> •
+	<a href="#mortar_board-cursos">Cursos</a> •
+	<a href="#book-livros">Livros</a> •
 	<a href="#newspaper-blogs">Blogs</a> •
 	<a href="#computer-screencasts">Screencasts</a> •
-	<a href="#speech_balloon-comunidades_communities">Comunidades_Communities</a> 
+	<a href="#speech_balloon-comunidades">Comunidades</a> 
 	
 </p>
 
@@ -36,7 +34,7 @@ Inspired by Felipe Orlando's Learn Ruby on Rails<br>Inspirado no <a href="https:
 
 
 
-## :mortar_board: Cursos_Courses
+## :mortar_board: Cursos
 
 
 Curso: Formação Desenvolvedor Backend / Backend Developer Training  | Escola/Site | Nível | Assunto | Autor | Preço
@@ -159,7 +157,7 @@ Curso: Ruby | Escola/Site | Nível | Assunto | Autor | Preço
 
 [Ir para o índice](#Índice)
 
-## :book: Livros_Books
+## :book: Livros
 
 Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
@@ -208,7 +206,7 @@ Título | Assunto | Autor | Idioma
 
 [Ir para o índice](#Índice)
 
-## :speech_balloon: Comunidades_Communities
+## :speech_balloon: Comunidades
 Nome | Tipo | Idioma
 :-- | :--: | :--:
 [We Are Coming Soon - A melhor comunidade para devs backend está chegando!](https://www.backendbrasil.com.br/) | Slack | :brazil:
