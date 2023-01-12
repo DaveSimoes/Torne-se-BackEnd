@@ -48,7 +48,7 @@ Curso: Formação Desenvolvedor Backend / Backend Developer Training  | Escola/S
 [Programador Back-end: Introdução](https://www.devmedia.com.br/curso/programador-back-end-introducao/2425) | DEVMEDIA | Básico ao Avançado | Backend | [DEVMEDIA](https://www.devmedia.com.br/) | :moneybag:
 
 
-Curso: API REST/REST Full | Escola/Site | Nível | Assunto | Autor | Preço
+Curso: API REST | Escola/Site | Nível | Assunto | Autor | Preço
 :-- | :--: | :--: | :--: | :--: | :--:
 [API REST](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api) | Red Hat | Intermediário | API REST/RESTFull | [Vários](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api) | :free:
 [O QUE É UMA API RESTFull NA PRÁTICA? MATURIDADE DE RICHARDSON](https://www.youtube.com/watch?v=P92SBaN42mQ) | YouTube | Intermediário | API RESTFull | [Michelli Brito](https://www.youtube.com/@MichelliBrito) | :free:
