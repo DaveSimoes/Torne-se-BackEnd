@@ -225,6 +225,12 @@ Nome | Tipo | Idioma
 
   Follow the [contribution guidelines for contributing](CONTRIBUTING.md) to the project. </br>
   Siga as [siga as normas de contribuição](CONTRIBUTING.md) para contribuir com o projeto.
+  
+   <h2 align= "center">Mostre seu apoio a este repositório </br>
+Muito Obrigado !</h2>
+
+
+### Dê uma ⭐ se vc achou este repositório útil!
 
 
 <h6 align="center"><a href="/LICENSE">MIT</a> @ David Simoes</h6>
