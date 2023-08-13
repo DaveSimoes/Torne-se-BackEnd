@@ -1,6 +1,9 @@
 <p align="center">
 	
 
+
+
+
 <img src="/img/backend_logo.png" width="700" alt="Seja Backend Dev">
 </p>
 <h1 align="Aprenda Backend"</h1>
