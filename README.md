@@ -3,7 +3,7 @@
 
 <img src="/img/backend_logo.png" width="700" alt="Seja Backend Dev">
 </p>
-<h1 align="center">Seja um Desenvolvedor Backend</h1>
+<h1 align="Aprenda Backend"</h1>
 
 
 <p align="center">Este repositório é mais uma ferramenta para auxílio na  formação de novos profissionais Backend.<br>Inspirado no <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
