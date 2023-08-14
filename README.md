@@ -210,7 +210,7 @@ Nome | Tipo | Idioma
 
 [Ir para o índice](#Índice)
 
-## Como posso Contribuir ? / How can I Contribute?
+## How can I Contribute? / Como posso contribuir ?
 
 
   Follow the [contribution guidelines for contributing](CONTRIBUTING.md) to the project. </br>
