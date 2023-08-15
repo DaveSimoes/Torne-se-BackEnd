@@ -91,7 +91,7 @@ Curso: Java | Escola/Site | Nível | Assunto | Autor | Preço
 [Back-End Java - Curso Online](https://www.youtube.com/watch?v=4XtjGIMXZ2k) | YouTube | Intermediário | Java | [Vários](https://www.youtube.com/@EBACoficial) | :free:
 [FORMAÇÃO JAVA BACKEND COM DESENVOLVIMENTO DE APLICAÇOES PRÁTICAS](https://sisnema.com.br/formacao-java-backend-com-desenvolvimento-de-aplicacoes-praticas) | SISNEMA | Intermediário | Java | [Vários](https://sisnema.com.br/home) | :free:
 [PROGRAMAÇÃO JAVA - BACK END](https://www.senacrs.com.br/cursos/programacao-java---back-end_WyI2NDA1NCIsIjE4IixudWxsLCIxIl0) | Senac | Intermediário | Java | [Vários](https://www.senacrs.com.br/cursos/programacao-java---back-end_WyI2NDA1NCIsIjE4IixudWxsLCIxIl0) | :free:
-
+[Desenvolvimento Back-end em Java com Spring](https://www.youtube.com/watch?v=Dk0uZ1SrY2M&list=PL_GwGUsBlNydqvVwEnsEybcxwDSY6p0-x) | YouTube | Intermediário | Java | [Vários](https://www.youtube.com/@SergioRobertoDelfino) | :free:
 
 Curso: Node.js | Escola/Site | Nível | Assunto | Autor | Preço
 :-- | :--: | :--: | :--: | :--: | :--:
