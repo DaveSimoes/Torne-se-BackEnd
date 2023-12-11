@@ -1,11 +1,7 @@
 <p align="center">
-	
-
 
 ![image](https://github.com/DaveSimoes/Backend_Brasil/assets/109705197/4b6fcdff-f6af-4d1e-8053-903ead61d3cc)
 
-
-<img src="/img/backend_logo.png" width="700" alt="Seja Backend Dev">
 </p>
 <h1 align="Aprenda Backend"</h1>
 
