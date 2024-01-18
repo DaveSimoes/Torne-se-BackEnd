@@ -5,8 +5,7 @@
 </p>
 <h1 align="Aprenda Backend"</h1>
 
-<p align="center"><br>Este repositório tem como objetivo ser mais uma ferramenta quer irá auxiliar a todos que desejam se tornar um Desenvolvedor BackEnd.
-Este reposositório foi inspirado  em : <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
+<p align="center"><br>This repository aims to be just one more tool to help everyone who wish to become a professional Backend Inspirate by <a href="https://github.com/felipeorlando/aprenda-rubyonrails">Aprenda Ruby on Rails</a> do <a href="https://github.com/felipeorlando/">Felipe Orlando</a></p>
 
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
